@@ -1,2 +1,4 @@
-# CreeperTV-server
-Pour le bon fonctionnement du serveur Discord officiel !
+# CreeperTV Discord
+Ce répertoire permet de stocker tout ce qu'il faut pour le bon fonctionnement de notre bot "Wiitomo"
+
+Je pense pas que cela vous intérèsserai mais bon lol.
